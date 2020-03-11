@@ -45,7 +45,7 @@
     "less-middleware": "^2.2.1",
     "lodash": "^3.10.1",
     "minimatch": "^3.0.4",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "moment": "^2.19.4",
     "mongodb": "^2.2.33",
     "moog-require": "^0.4.2",
