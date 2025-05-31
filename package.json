@@ -68,7 +68,7 @@
     "underscore.string": "^3.3.4",
     "uploadfs": "^1.6.2",
     "xregexp": "^2.0.0",
-    "yargs": "^3.32.0"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "mocha": "^3.5.3"
